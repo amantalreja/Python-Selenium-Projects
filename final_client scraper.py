@@ -24,8 +24,8 @@ headers =   {
             }
 
 data =  {
-            "username": 'Fortini.Marcello',
-            "password": 'BKSSolutions2020!',
+            "username": 'rtinircello',
+            "password": 'SSolutions2020!',
             "client": "mRIC"
         }
 
